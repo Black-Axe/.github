@@ -1,1 +1,1 @@
-Add issue templates here
+Add issue templates here.
