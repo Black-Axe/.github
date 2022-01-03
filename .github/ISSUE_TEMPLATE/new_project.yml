@@ -1,0 +1,27 @@
+name: Cool Project Idea!
+description: For the community to share project ideas and lead/manage them with help/assistance if needed
+title: "[Project Proposal] <description here>"
+labels: [project]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of project, idea
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Add (multiple) screenshot links (if applicable)
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Add any other context about the project proposal here
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Feel free to check out other cool repositories of the Black Axe Community [here](https://github.com/Black-Axe)
