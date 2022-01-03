@@ -1,4 +1,4 @@
-<img width="100%" src="/images/BlackAxe.png" />
+<img width="100%" src="/images/Open source Initiative.png" />
 
 ## Welcome !
 
