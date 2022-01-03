@@ -46,7 +46,6 @@
 - [Mission](#mission)
   - [Open Source Initiative](https://github.com/Black-Axe/Black-Axe/wiki/About#open-source-initiative)
 - [Support](https://github.com/Black-Axe/Black-Axe#support)
-- [Project assistance](#project-assistance)
 - [Contributing](https://github.com/Black-Axe/.github/blob/db227846edb1c651e348c30cdb37674aa2b88a27/docs/CONTRIBUTING.md)
 - [Security](https://github.com/Black-Axe/.github/security/policy)
 - [License](https://github.com/Black-Axe/.github/blob/main/LICENSE)
