@@ -2,8 +2,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/Black-Axe/Black-Axe/wiki/Welcome-Message#welcome"><h4 class="websitelink"> Welcoming everybody!</h4></a>
+<div align="center"><h4 class="websitelink"> Welcoming everybody!</h4>
   Black Axe
   <br />
   <a href="https://github.com/orgs/Black-Axe/repositories"><strong>Explore the repos »</strong></a>
