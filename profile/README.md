@@ -51,7 +51,7 @@
   
 >
 </details>
-<details open="close">
+<details>
 <summary>Acknowledgements</summary>
 
 - [Aimanx9](https://github.com/Aimanx9)
