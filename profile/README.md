@@ -1,3 +1,12 @@
+<style type="text/css" rel="stylesheet">
+.websitelink{
+  color: #00C2CB;
+  text-decoration: underline;
+
+}
+
+</style>
+
 <img width="100%" src="/images/OSS.png" />
 
 
@@ -52,11 +61,3 @@
 
 </details>
 
-<style type="text/css" rel="stylesheet">
-.websitelink{
-  color: #00C2CB;
-  text-decoration: underline;
-
-}
-
-</style>
