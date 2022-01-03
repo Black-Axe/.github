@@ -3,6 +3,7 @@
 
 
 <div align="center">
+  <h4> Welcoming everybody!</h4>
   Black Axe
   <br />
   <a href="https://github.com/orgs/Black-Axe/repositories"><strong>Explore the repos »</strong></a>
@@ -29,12 +30,8 @@
 </div>
 
 
-## Welcoming everybody!
 
-Here is where we collaborate with the greater open source community to help bring better software to the world. 
-Our main projects consist of web based applications backed by JavaScript or Typescript, with an emphasis on financial technology. 
-Our open source projects consist of anything, so long as it inspires creativity and positive collaboration.
-We love tinkering with programming, and invite you to help build some amazing projects with us!😊
+
 
 ----
 <details open="open">
