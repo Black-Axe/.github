@@ -5,8 +5,9 @@
 
 
 <div align="center">
-<h3 class="websitelink"> Welcoming everybody!</h3>
-  Black Axe
+<h2> Welcoming everybody!</h2>
+  <h3>Black Axe</h3>
+  <h5>Breathing life into code</h5>
   <br />
   <a href="https://github.com/orgs/Black-Axe/repositories"><strong>Explore the repos »</strong></a>
   <br />
