@@ -1,10 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/Black-Axe">
-    <!-- Please provide path to your logo here -->
-    <img src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/baxeblue.png" alt="Logo" width="100" height="100">
-  </a>
-</h1>
-
 <img width="100%" src="/images/OSS.png" />
 
 
