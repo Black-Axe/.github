@@ -39,20 +39,20 @@
   - [Welcome Message](https://github.com/Black-Axe/Black-Axe/wiki/Welcome-Message#welcome)
   - [Who We Are](#Who-we-are)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
+  - [First timers](#prerequisites)
+  - [Community Projects](https://github.com/orgs/Black-Axe/projects/7)
+- [Mission](#usage)
+  - [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
 - [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
 - [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
+- [License](https://github.com/Black-Axe/.github/blob/main/LICENSE)
+  
+>
 </details>
+<details open="close">
+<summary>Acknowledgements</summary>
 
-<br>
-<br>
-<img width="100%" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/footer.png" />
+- [Aimanx9](https://github.com/Aimanx9)
+</details
