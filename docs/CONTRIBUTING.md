@@ -5,23 +5,21 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Development environment setup
 
-> **[?]**
-> Proceed to describe how to setup local development environment.
-> e.g:
 
 To set up a development environment, please follow these steps:
 
-1. Clone the repo
+1. Clone the repo (example)
 
    ```sh
    git clone https://github.com/Black-Axe/Black-Axe
    ```
 
-2. TODO
+2. Read the Readme to familiarize yourself with the particular project and repo, and ask questions if anything is unclear!
+
 
 ## Issues and feature requests
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature?Take a look at [GitHub Discussions](https://github.com/Black-Axe/Black-Axe/discussions) to see if it's already being discussed.  You can help us by [submitting an issue on GitHub](https://github.com/Black-Axe/Black-Axe/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/Black-Axe/Black-Axe/discussions) to see if it's already being discussed.  You can help us by [submitting an issue on GitHub](https://github.com/Black-Axe/Black-Axe/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 

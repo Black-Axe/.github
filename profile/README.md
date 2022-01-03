@@ -39,16 +39,16 @@
 
 - [About](#about)
   - [Welcome Message](https://github.com/Black-Axe/Black-Axe/wiki/Welcome-Message#welcome)
-  - [Who We Are](#Who-we-are)
+  - [Who We Are](https://github.com/Black-Axe/Black-Axe/wiki/About#who-we-are)
 - [Getting Started](#getting-started)
-  - [First timers](#prerequisites)
+  - [First timers](https://github.com/Black-Axe/Black-Axe/wiki/First-Timers#welcome)
   - [Community Projects](https://github.com/orgs/Black-Axe/projects/7)
-- [Mission](#usage)
-  - [Roadmap](#roadmap)
-- [Support](#support)
+- [Mission](#mission)
+  - [Open Source Initiative](https://github.com/Black-Axe/Black-Axe/wiki/About#open-source-initiative)
+- [Support](https://github.com/Black-Axe/Black-Axe#support)
 - [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-- [Security](#security)
+- [Contributing](https://github.com/Black-Axe/.github/blob/db227846edb1c651e348c30cdb37674aa2b88a27/docs/CONTRIBUTING.md)
+- [Security](https://github.com/Black-Axe/.github/security/policy)
 - [License](https://github.com/Black-Axe/.github/blob/main/LICENSE)
   
 >
