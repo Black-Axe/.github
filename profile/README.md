@@ -1,12 +1,3 @@
-<style type="text/css" rel="stylesheet">
-.websitelink{
-  color: #00C2CB;
-  text-decoration: underline;
-
-}
-
-</style>
-
 <img width="100%" src="/images/OSS.png" />
 
 
@@ -45,7 +36,8 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Built With](#built-with)
+  - [Welcome Message](https://github.com/Black-Axe/Black-Axe/wiki/Welcome-Message#welcome)
+  - [Who We Are](#Who-we-are)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
