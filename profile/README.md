@@ -6,9 +6,7 @@
 <h2> Welcoming everybody!</h2>
   <h3>Black Axe</h3>
   <h5>Breathing life into code</h5>
-  <br />
   <a href="https://github.com/orgs/Black-Axe/repositories"><strong>Explore the repos »</strong></a>
-  <br />
   <br />
   <a href="https://github.com/Black-Axe/Black-Axe/issues/new?assignees=&labels=bug&template=Bug.yml&title=%5BBUG%5D+%3Cbug+description%3E">Report a Bug</a>
   ·
