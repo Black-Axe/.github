@@ -51,8 +51,12 @@
   
 >
 </details>
-<details>
+<details open>
 <summary>Acknowledgements</summary>
 
 - [Aimanx9](https://github.com/Aimanx9)
-</details
+- [NevilleMthw](https://github.com/NevilleMthw)
+- [LethuNsibande](https://github.com/LethuNsibande)
+- [Ndace-hash](https://github.com/Ndace-hash)
+- [davidwheeler2](https://github.com/davidwheeler2)
+</details>
