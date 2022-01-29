@@ -60,5 +60,5 @@
 - [LethuNsibande](https://github.com/LethuNsibande)
 - [Ndace-hash](https://github.com/Ndace-hash)
 - [davidwheeler2](https://github.com/davidwheeler2)
-- [valanm22]https://github.com/valanm22
+- [valanm22](https://github.com/valanm22)
 </details>
