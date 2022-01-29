@@ -7,6 +7,7 @@
 <div align="center">
 <h2> Welcoming everybody!</h2>
   <h3>Black Axe</h3>
+  <h5>Spirans in Codice</h5>
   <h5>Breathing life into code</h5>
   <a href="https://github.com/orgs/Black-Axe/repositories"><strong>Explore the repos »</strong></a>
   <br />
