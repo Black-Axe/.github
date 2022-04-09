@@ -61,4 +61,5 @@
 - [Ndace-hash](https://github.com/Ndace-hash)
 - [davidwheeler2](https://github.com/davidwheeler2)
 - [valanm22](https://github.com/valanm22)
+- [imCorfitz](https://github.com/imCorfitz)
 </details>
