@@ -34,7 +34,7 @@
 
 
 ----
-<details open="open">
+<details>
 <summary>Table of Contents</summary>
 
 - [About](#about)
@@ -52,7 +52,7 @@
   
 >
 </details>
-<details open>
+<details>
 <summary>Acknowledgements</summary>
 
 - [Aimanx9](https://github.com/Aimanx9)
